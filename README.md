@@ -65,15 +65,3 @@
 ---
 
 <div align="center">
-
-### ⚡ Currently
-
-🔹 Building AI-powered products  
-🔹 Exploring System Design & Distributed Systems  
-🔹 Open to collaborating on impactful projects  
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Nataraj-EL&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
